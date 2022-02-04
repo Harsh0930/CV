@@ -1,0 +1,13 @@
+#name
+{
+color: teal;
+}
+#content{
+    color: tomato;
+}
+.first-name{
+    color: black;
+}
+div{
+    display:inline;
+}
